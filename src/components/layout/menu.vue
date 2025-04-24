@@ -54,6 +54,10 @@
             <path class="nav_colorbtn_sunline" d="M238.67,53c108.8,0,197,88.2,197,197s-88.2,197-197,197" />
         </svg>
     </div>
+    <a class="copyright _font_1" href="https://wzcblog.netlify.app" target="_blank" ref="copyright">
+        @2025.4.24
+        <br />MAKE BY JIEJOE
+    </a>
 </template>
 
 <script setup>
